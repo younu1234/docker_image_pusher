@@ -10,5 +10,6 @@
 #bitnami/redis
 #quay.io/flysangel/grafana/grafana
 #quay.io/prometheus/prometheus
-quay.io/sgaz-containers/kafka-ui
-quay.io/embrace-source/nacos-operator-catalog
+#quay.io/sgaz-containers/kafka-ui
+#quay.io/embrace-source/nacos-operator-catalog
+quay.io/strimzi/kafka
