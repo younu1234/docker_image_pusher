@@ -8,4 +8,5 @@
 #redis
 #wordpress
 #bitnami/redis
-grafana
+quay.io/flysangel/grafana/grafana
+quay.io/prometheus/prometheus
