@@ -7,4 +7,5 @@
 #mysql：8.0.30
 #redis
 #wordpress
-bitnami/redis
+#bitnami/redis
+grafana
