@@ -8,5 +8,6 @@
 #redis
 #wordpress
 #bitnami/redis
-quay.io/flysangel/grafana/grafana
-quay.io/prometheus/prometheus
+#quay.io/flysangel/grafana/grafana
+#quay.io/prometheus/prometheus
+nacos-mysql
