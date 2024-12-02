@@ -12,5 +12,6 @@
 #quay.io/prometheus/prometheus
 #quay.io/sgaz-containers/kafka-ui
 #quay.io/embrace-source/nacos-operator-catalog
-quay.io/strimzi/operator
-quay.io/debezium/zookeeper
+#quay.io/strimzi/operator
+#quay.io/debezium/zookeeper
+quay.io/jeremy_mauro/opensearch-dashboards
