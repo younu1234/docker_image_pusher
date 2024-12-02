@@ -14,4 +14,5 @@
 #quay.io/embrace-source/nacos-operator-catalog
 #quay.io/strimzi/operator
 #quay.io/debezium/zookeeper
-quay.io/jeremy_mauro/opensearch-dashboards
+#quay.io/jeremy_mauro/opensearch-dashboards
+quay.io/owncloudops/rabbitmq
