@@ -10,4 +10,4 @@
 #bitnami/redis
 #quay.io/flysangel/grafana/grafana
 #quay.io/prometheus/prometheus
-nacos-mysql
+nacos
